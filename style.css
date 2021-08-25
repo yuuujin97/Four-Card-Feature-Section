@@ -90,6 +90,8 @@ body {
   margin: 12px;
   padding: 20px;
   border-top: 4px solid var(--cyan-color);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.1s linear;
   background-color: white;
@@ -100,6 +102,8 @@ body {
   margin: 12px;
   padding: 20px;
   border-top: 4px solid var(--red-color);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.1s linear;
   background-color: white;
@@ -110,6 +114,8 @@ body {
   margin: 24px 12px;
   padding: 20px;
   border-top: 4px solid var(--orange-color);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.1s linear;
   background-color: white;
@@ -120,6 +126,8 @@ body {
   margin: 12px;
   padding: 20px;
   border-top: 4px solid var(--blue-color);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.1s linear;
   background-color: white;
