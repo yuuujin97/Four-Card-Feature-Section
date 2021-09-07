@@ -1,4 +1,4 @@
-# Frontend Mentor : Four-Card-Feature-Section
+# Frontend Mentor : Four Card Feature Section
 
 ⭐완성된 Challenges : https://yuuujin97.github.io/Four-Card-Feature-Section/
 
